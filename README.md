@@ -1,6 +1,6 @@
 # my_tflite
 
-This repository contains the model whos pretrained weights were used fro transfer Learning.
+This repository contains the model whos pretrained weights were used for transfer Learning.
 I refered this medium article for the entire process - https://towardsdatascience.com/deeppicar-part-6-963334b2abe0
 I've used non-quantized model.
 Tensorflow version 1.14
